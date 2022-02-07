@@ -1,6 +1,6 @@
-# Scala 101
+# Scala Snipper
 
-My journey learning Scala.
+Doing things in Scala.
 
 
 ## HW
