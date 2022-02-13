@@ -19,8 +19,8 @@ scala Main.scala
 ## Classes
 
 ```
-scalac src/com/pizza/Topping.scala -d classses
-scalac -classpath classses src/com/pizza/Pizza.scala -d classses
-scalac -classpath classses src/com/pizza/Main.scala -d classses
+scalac src/com/pizza/Topping.scala -d classes
+scalac -classpath classses src/com/pizza/Pizza.scala -d classes
+scalac -classpath classses src/com/pizza/Main.scala -d classes
 scala -classpath classes Main
 ```
